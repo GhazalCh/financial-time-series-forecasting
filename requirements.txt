@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+scikit-learn
+matplotlib
+yfinance
+nltk
+tqdm
+timedelta
+vadersentiment
+sentence_transformers
+transformers
